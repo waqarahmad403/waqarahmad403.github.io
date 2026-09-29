@@ -1,0 +1,8 @@
+[{                                                                                                                                                                                  
+    "relation": ["delegate_permission/common.handle_all_urls"],                                                                                                                       
+    "target": {                                                                                                                                                                       
+      "namespace": "android_app",                                                                                                                                                     
+      "package_name": "io.github.waqarahmad403.chanda",                                                                                                                               
+      "sha256_cert_fingerprints": ["2C:52:32:23:DE:AD:EA:1B:16:98:BA:56:8C:85:03:EE:4E:45:AD:FA:23:67:FC:E2:7F:74:EA:3B:91:96:EF:A5"]                                                 
+    }                                                                                                                                                                                 
+  }] 
